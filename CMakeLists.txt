@@ -9,4 +9,4 @@ add_subdirectory(cdc)
 add_subdirectory(example)
 
 #javastub build
-#add_subdirectory(src/cdc_javastub)
+add_subdirectory(cdc_javastub)
